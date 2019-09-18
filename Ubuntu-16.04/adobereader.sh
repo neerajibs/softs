@@ -10,4 +10,6 @@
 sudo add-apt-repository "deb http://archive.canonical.com/ precise partner" -y
 sudo apt-get update -y 
 sudo apt-get install adobereader-enu -y
+
+Neeraj
 echo "################ Adobe Installation Sucessfully ######################"
